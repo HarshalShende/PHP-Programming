@@ -30,4 +30,8 @@ if($age > 18 xor $age < 25){
 }
 echo '<br>';
 
+if(!($age > 18)){
+    echo 'wrong';
+}
+
 ?>

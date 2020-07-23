@@ -1,3 +1,6 @@
+
+//associative array 
+
 <?php
 
 $arr=[

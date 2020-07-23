@@ -12,7 +12,7 @@ switch($choice){
         echo 'choice is two 2';
     break;
 
-    case 3:
+    case 3: case 4: case 5:
         echo 'choice is three 3';
     break;
 

@@ -15,4 +15,7 @@ $a /= $b;
 echo $a;
 echo '<br>';
 
+$a **= $b;
+echo $a;
+echo '<br>';
 ?>
