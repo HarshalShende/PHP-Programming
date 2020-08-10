@@ -6,7 +6,9 @@ echo $colnum[0]."<br>";
 echo $colnum[1]."<br>";
 echo $colnum[2]."<br>";
 echo $colnum[3]."<br>";
+
 echo "<br>";
+
 $approach2=["red",10,"orange",10.10,"green"];
 
 echo $approach2[0]."<br>";

@@ -11,7 +11,6 @@ echo date_format($date, "d/m/Y H:i:s") . "<br>";
 $date = date_create("2023-03-15");
 echo date_format($date, "d/m/Y H:i:s") . "<br>";
 
-
 $date = date_create("2023-03-15", timezone_open("Asia/Karachi"));
 echo date_format($date, "d/m/Y H:i:s") . "<br>";
 

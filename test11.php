@@ -21,6 +21,7 @@ else{
     echo "please enter valid percentage";
 }
 
+//------------2nd way----------------------------------
 
 if($per >= 80 && $per <= 100):
     echo "You are in merit";
