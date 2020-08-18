@@ -9,6 +9,7 @@ for($b=1; $b<=10; $b++){
     echo $b;
     echo '<br>';
 }
+// goto == move contrl to
 
 echo 'Hell0 dear 2 <br>';
 echo 'Hell0 dear 3 <br>';
